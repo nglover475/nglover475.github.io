@@ -1,3 +1,10 @@
+th {
+    border:1px solid black;
+    text-align:center;
+}
+
+th { border-collapse:collapse; }
+
 body {
 text-align: center;
 }
