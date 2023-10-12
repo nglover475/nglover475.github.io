@@ -1,9 +1,10 @@
 th {
     border:1px solid black;
     text-align:center;
+    border-collapse:collapse;
 }
 
-th { border-collapse:collapse; }
+th:hover { background-color:burlywood; }
 
 body {
 text-align: center;
