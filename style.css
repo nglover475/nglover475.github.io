@@ -27,3 +27,21 @@ text-align: center;
 #tag1 {
   background-color:aqua;
 }
+#id1 {
+  background-color: burlywood; text-align: left;
+}
+#id2 {
+    background-color: burlywood; text-align: right;
+}
+#id3 {
+    background-color: aqua;
+}
+#id4 {
+    border: 2px solid black;
+}
+#id5 {
+    background-color: burlywood; text-align: left;
+}
+#id6 {
+    background-color: blue; text-align: left;
+}
